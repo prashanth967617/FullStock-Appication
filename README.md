@@ -55,10 +55,10 @@ npm install
 npm start
 ### Usage:
 
-Open your web browser and go to http://localhost:3000.
+1.Open your web browser and go to http://localhost:3000.
 
-Use the "Upload PDF" form to upload your PDF documents.
+2.Use the "Upload PDF" form to upload your PDF documents.
 
-Once uploaded, enter the filename and your question in the "Ask Question" form.
+3.Once uploaded, enter the filename and your question in the "Ask Question" form.
 
-Submit the form to receive an answer based on the PDF content.
+4.Submit the form to receive an answer based on the PDF content.
