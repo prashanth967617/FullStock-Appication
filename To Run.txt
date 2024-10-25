@@ -1,0 +1,2 @@
+uvicorn main:app --reload//run the backend
+npm start//run fronttend
